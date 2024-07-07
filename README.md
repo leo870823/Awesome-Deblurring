@@ -256,7 +256,7 @@
 |2023|SIVP|[Reverse image filtering with clean and noisy filters](https://link.springer.com/article/10.1007/s11760-022-02236-w)|[Code](https://github.com/fayolle/clean_noisy_defilter)|
 |2023|TIP|[INFWIDE: Image and Feature Space Wiener Deconvolution Network for Non-blind Image Deblurring in Low-Light Conditions](https://arxiv.org/abs/2207.08201)|[Code](https://github.com/zhihongz/INFWIDE)|
 |2023|TPAMI|[Blind Image Deconvolution Using Variational Deep Image Prior](https://arxiv.org/abs/2202.00179)|[Code](https://github.com/Dong-Huo/VDIP-Deconvolution)|
-|2024|WACV|[Deep Plug-and-Play Nighttime Non-Blind Deblurring With Saturated Pixel Handling Schemes](https://openaccess.thecvf.com/content/WACV2024/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf)||
+|2024|WACV|[Deep Plug-and-Play Nighttime Non-Blind Deblurring With Saturated Pixel Handling Schemes](https://openaccess.thecvf.com/content/WACV2024/papers/Shu_Deep_Plug-and-Play_Nighttime_Non-Blind_Deblurring_With_Saturated_Pixel_Handling_Schemes_WACV_2024_paper.pdf)|[Code](https://github.com/leo870823/DPSHS/tree/main)|
 |2024|TCI|[The Secrets of Non-Blind Poisson Deconvolution](https://arxiv.org/abs/2309.03105)||
 |2024|IJCV|[Deep Richardson-Lucy Deconvolution for Low-Light Image Deblurring](https://arxiv.org/abs/2308.05543)||
 
